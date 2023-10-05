@@ -7,6 +7,7 @@ const App = () => {
  
   return (
     <div className='container'>
+      <h2>siva</h2>
       <Expensetracker/>
       
     </div>
